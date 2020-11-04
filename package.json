@@ -1,6 +1,6 @@
 {
   "name": "leaflet-measure-meters-more",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Leaflet measure control =======================",
   "main": "leaflet.measure/leaflet.measure.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danwild/leaflet.measure.git"
+    "url": "git+https://github.com/LinusTuring/leaflet.measure.git"
   },
   "keywords": [
     "leaflet"
@@ -16,9 +16,9 @@
   "author": "mail@juergentreml.de, danwild@y7mail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danwild/leaflet.measure/issues"
+    "url": "https://github.com/LinusTuring/leaflet.measure/issues"
   },
-  "homepage": "https://github.com/danwild/leaflet.measure#readme",
+  "homepage": "https://github.com/LinusTuring/leaflet.measure#readme",
   "peerDependencies": {
     "leaflet": "^1.0.3"
   }
